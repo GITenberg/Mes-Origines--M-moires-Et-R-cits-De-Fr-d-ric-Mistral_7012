@@ -1,0 +1,35 @@
+_repo: Mes-Origines--M-moires-Et-R-cits-De-Fr-d-ric-Mistral_7012
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mistral, Frédéric
+    aliases:
+    - Mistral, Joseph Etienne Frédéric
+    - Mistral, Frederic
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '2302'
+    url: http://www.gutenberg.org/2009/agents/2302
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Frédéric_Mistral
+    - http://en.wikipedia.org/wiki/Frédéric_Mistral
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7012'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, Occitan -- 19th century -- Biography'
+- !lcc 'PC'
+- !lcsh 'Occitan movement -- Biography'
+- !lcsh 'Provence (France) -- Social life and customs'
+- !lcsh 'Mistral, Frédéric, 1830-1914 -- Childhood and youth'
+- !lcsh 'Lexicographers -- France -- Biography'
+- GITenberg
+title: Mes Origines; Mémoires Et Récits De Frédéric Mistral
+url: http://www.gutenberg.org/ebooks/7012
