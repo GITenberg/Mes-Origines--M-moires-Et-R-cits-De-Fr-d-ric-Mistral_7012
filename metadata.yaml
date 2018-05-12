@@ -1,5 +1,8 @@
 _repo: Mes-Origines--M-moires-Et-R-cits-De-Fr-d-ric-Mistral_7012
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mistral, Frédéric
@@ -14,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Frédéric_Mistral
     - http://en.wikipedia.org/wiki/Frédéric_Mistral
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7012#Mes-Origines--M-moires-Et-R-cits-De-Fr-d-ric-Mistral
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
